@@ -1,0 +1,7 @@
+D:\VS2022\SimpleArkaAPI\SimpleArkaAPI\bin\Debug\SimpleArkaAPI.pdb
+D:\VS2022\SimpleArkaAPI\SimpleArkaAPI\obj\Debug\SimpleArkaAPI.csproj.AssemblyReference.cache
+D:\VS2022\SimpleArkaAPI\SimpleArkaAPI\obj\Debug\SimpleArkaAPI.csproj.CoreCompileInputs.cache
+D:\VS2022\SimpleArkaAPI\SimpleArkaAPI\obj\Debug\SimpleArkaAPI.pdb
+D:\VS2022\SimpleArkaAPI\SimpleArkaAPI\bin\Debug\SimpleArkaAPI.dll.config
+D:\VS2022\SimpleArkaAPI\SimpleArkaAPI\bin\Debug\SimpleArkaAPI.dll
+D:\VS2022\SimpleArkaAPI\SimpleArkaAPI\obj\Debug\SimpleArkaAPI.dll
